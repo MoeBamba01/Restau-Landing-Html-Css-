@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.navbar {
+    background-color: #333;
+}
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+.hero {
+    background-image: url('https://www.avikalp.com/cdn/shop/products/MWZ3018_wallpaper1.jpg?v=1653192899');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+.hero a {
+    margin-top: 20px;
+}
+.menu .card {
+    margin-bottom: 30px;
+}
+.menu .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.about img {
+    width: 100%;
+    height: auto;
+}
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+footer a {
+    color: white;
+    margin: 0 10px;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+
+#about p {
+    margin-left: 19%;
+}
+
+#about h2{
+    margin-left: 19%;
+}
